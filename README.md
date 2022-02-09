@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @szhu9903
-- 👀 I’m interested in python、SQL、C++、React、React Native
+- 👀 I’m interested in Python、SQL、C++、React、React Native
 - 🌱 I’m currently learning React
 - 📫 szhu9903gmail.com
 
